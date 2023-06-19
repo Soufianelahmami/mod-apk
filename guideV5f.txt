@@ -31,20 +31,20 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2450579-1",
+"yandex_inter":"R-M-2450579-3",
+"yandex_native":"R-M-2450579-2",
+"yandex_reward":"R-M-2450579-4",
 
 
 "youtubelink_1_id":"hdisyyd",
 "youtubelink_2_id":"hdisyyd",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
 "detail_text2":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
@@ -53,37 +53,37 @@
  
  "my_data":[
   {"title":"mod apk 1",
-  "download_num":"584528",
-  "visite_num":"21741",
-  "photo":"https://freeimghost.net/i/5JfVa"},
+  "download_num":"58454428",
+  "visite_num":"217141",
+  "photo":"https://iili.io/HPdR0ZP.jpg"},
   {"title":"mod apk 2",
   "download_num":"589458",
-  "visite_num":"21041",
-  "photo":"https://freeimghost.net/i/5JRal"},
+  "visite_num":"210411",
+  "photo":"https://iili.io/HPdRP94.jpg"},
   {"title":mod apk 3",
   "download_num":"538458",
   "visite_num":"21641",
-  "photo":"https://freeimghost.net/i/5Jk9m"},
+  "photo":"https://iili.io/HPd52DB.webp"},
   {"title":"mod apk 4",
   "download_num":"568458",
   "visite_num":"21841",
-  "photo":"https://freeimghost.net/i/5JrhV"},
+  "photo":"https://iili.io/HPd5Cla.webp"},
   {"title":"mod apk 5",
   "download_num":"158458",
   "visite_num":"21841",
-  "photo":"https://freeimghost.net/i/5JSkt"},
+  "photo":"https://iili.io/HPd5zRR.webp"},
   {"title":"mod apk 6",
   "download_num":"588458",
   "visite_num":"21941",
-  "photo":"https://freeimghost.net/i/5Jcoe"},
+  "photo":"https://iili.io/HPd5TDN.jpg"},
   {"title":"mod apk 7",
   "download_num":"584358",
   "visite_num":"21841",
-  "photo":"https://freeimghost.net/i/5JiTS"},
+  "photo":"https://iili.io/HPd55iX.jpg"},
   {"title":"mod apk 8",
   "download_num":"581458",
   "visite_num":"26141",
-  "photo":"https://freeimghost.net/i/5JRal"}
+  "photo":"https://iili.io/HPd51R4.webp"}
    ]
  
 }
